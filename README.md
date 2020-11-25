@@ -1,1 +1,1 @@
-# Usu-rios-da-Informa-o
+# Trabalho apresentado à disciplina de usuários da informação e que resultou em um artigo "Guia de acessibilidade: um estudo de potenciais usuários de um guia de locais acessíveis em BH" publicado na revista "Múltiplos Olhares em Ciência da Informação"
